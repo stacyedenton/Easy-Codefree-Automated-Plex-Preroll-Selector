@@ -202,6 +202,10 @@ Created by [Stacy Edenton](https://stacyedenton.com) With help by Claude / ChatG
 
 ---
 
+## Support
+If this tool saves you time, consider donating!
+[💵 Donate via Cash App](https://cash.app/$StacyEdenton)
+
 ## License
 
 MIT License — free to use, modify, and distribute. See `LICENSE` for details.
