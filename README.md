@@ -198,7 +198,7 @@ The compiled `.exe` is fully standalone — no AHK installation needed to run it
 
 ## Credits
 
-Created by [Stacy Edenton](https://stacyedenton.com)
+Created by [Stacy Edenton](https://stacyedenton.com) With help by Claude / ChatGPT
 
 ---
 
